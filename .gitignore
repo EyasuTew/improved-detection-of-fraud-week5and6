@@ -112,3 +112,4 @@ pids
 *.pid.lock
 
 .qodo/
+.pkl
